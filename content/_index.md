@@ -15,7 +15,7 @@ MASO is a prototype tabletop roleplaying game that takes its cues from Battletec
 	<div class="col-md-4">
 		<div class="card flex-row border-0">
 			<div class="mt-3">
-				<span class="fas fa-tachometer-alt fa-2x text-primary"></span>
+				<span class="fas comments fa-2x text-primary"></span>
 			</div>
 			<div class="card-body pl-2">
 				<h5 class="card-title">
