@@ -1,4 +1,4 @@
-baseURL = 'http://maso.wiki/'
+baseURL = 'https://priceless-shaw-c91f76.netlify.app/'
 languageCode = 'en-us'
 title = 'M.A.S.O - Mixed Arms Space Opera'
 theme = "ace-documentation"
