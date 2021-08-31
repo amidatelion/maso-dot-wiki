@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Combat Rules on M.A.S.O - Mixed Arms Space Opera</title>
+    <link>http://maso.wiki/rules/combat/</link>
+    <description>Recent content in Combat Rules on M.A.S.O - Mixed Arms Space Opera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://maso.wiki/rules/combat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://maso.wiki/rules/combat/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/introduction/</guid>
+      <description>Combat is initiated by hostile action by any party. Combat is broken into turns, which run in a dynamic initiative order. Everyone involved in combat gets 1 turn, which is broken up into actions: 1 move action, 1 major action, 1 minor action and free actions. These can be taken in any order.</description>
+    </item>
+    
+    <item>
+      <title>Initiative</title>
+      <link>http://maso.wiki/rules/combat/initiative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/initiative/</guid>
+      <description>Initiative isn’t rolled for or set like some games. It is seized, which means whoever wants to go next, can. On the first round of combat, someone seizes the “first” position. If two people want that position, one or the other can concede or they roll off. A seize roll is 1d20 + any modifiers. Ties result in another roll off. The process repeats until everyone has seized a place in the initiative order.</description>
+    </item>
+    
+    <item>
+      <title>The Turn</title>
+      <link>http://maso.wiki/rules/combat/the-turn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/the-turn/</guid>
+      <description>A turn is 1 move action, 1 major action, 1 minor action and free actions, taken in any order.
+Move Action A move action allows a player to move up to their speed in any valid direction. If they are in a vehicle, they move at the vehicle’s speed. Terrain or other effects may reduce this speed, but nothing may increase it. Instead, a player may push themselves or their vehicle.</description>
+    </item>
+    
+    <item>
+      <title>Movement</title>
+      <link>http://maso.wiki/rules/combat/movement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/movement/</guid>
+      <description>A player may move their speed in combat. On foot, their speed is fixed. In a vehicle, they have three speeds: combat, cruising, flat out, noted on the sheet. A combat speed is slowest, but allows for the best maneuverability and is always available. Cruising is meant for covering large distance and in order to enter cruising speed, a vehicle must have spent 1 round at combat speed as it takes time to accelerate.</description>
+    </item>
+    
+    <item>
+      <title>Attacks</title>
+      <link>http://maso.wiki/rules/combat/attacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/attacks/</guid>
+      <description>Attacks are a Reaction check on a d20 against a target 15 with any relevant modifiers. This includes the player’s modifiers and the target’s, of which there can be many, and is where the complexity in M.A.S.O really comes from. Aside from weapon modifiers, here are some common ones
+Size Differences Targets gain size penalties and bonuses based on size differences. For every size category that a target is larger than the player, the player gets a +1 bonus against.</description>
+    </item>
+    
+    <item>
+      <title>Damage</title>
+      <link>http://maso.wiki/rules/combat/damage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/damage/</guid>
+      <description>Damage can broadly be split into Infantry and Vehicle Damage models.
+Infantry Damage Damage against a person or beast or really anything organic is done against their HP and usually mitigated by armour. Infantry armour blocks damage. So when a shot connects, it does its damage first to the armour and then to the wearer’s hit points. Hit points are defined your Body stat - namely 10 x your Body (minimum of 10).</description>
+    </item>
+    
+    <item>
+      <title>Heat</title>
+      <link>http://maso.wiki/rules/combat/heat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/heat/</guid>
+      <description>Under Construction  Subject to massive revision. Not really happy with how it slows down combat.    Heat is a characteristic of vehicles that defines how often they are able to fire in a given round. They have a latent heat, heat generation, heat sinking and a heat limit. Latent heat is the baseline level of heat that the mech is currently possessed of. A vehicle may fire all of its weapons as a major action or move its speed without generating Heat.</description>
+    </item>
+    
+    <item>
+      <title>Morale</title>
+      <link>http://maso.wiki/rules/combat/morale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/combat/morale/</guid>
+      <description>Unit Morale is invisibly tracked on a scale from 0 to 20. That is, the GM tracks it and it is invisible to the players.
+Morale starts at the beginning of a campaign at a level determined by the GM and can be increased by player actions and decreased by enemy actions (or, with really bad roles/plans, player actions). If morale ever hits 0 a zero morale event happens. This is bad.</description>
+    </item>
+    
+  </channel>
+</rss>

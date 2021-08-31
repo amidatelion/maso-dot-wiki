@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic Rules on M.A.S.O - Mixed Arms Space Opera</title>
+    <link>http://maso.wiki/rules/basics/</link>
+    <description>Recent content in Basic Rules on M.A.S.O - Mixed Arms Space Opera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://maso.wiki/rules/basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Player Character</title>
+      <link>http://maso.wiki/rules/basics/pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/basics/pc/</guid>
+      <description>Stats There are only three stats in M.A.S.O - Body, Reaction, and Smarts. The baseline of all of these is zero, with each point granting a bonus on rolls associated with it. These are fairly self explanatory and but a cursory explanation follows:
+Body: Represents feats of strength and endurance.
+Reaction: Represents feats of precision and reflexes.
+Smarts: Represents feats of mental and interpersonal nature.
+Traits Traits are where the character modifications come from in M.</description>
+    </item>
+    
+    <item>
+      <title>Dice and Rolls</title>
+      <link>http://maso.wiki/rules/basics/dice-and-rolls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/basics/dice-and-rolls/</guid>
+      <description>You only need two dice for M.A.S.O. A d20 and a d6. Well, maybe a lot of d6s. But you can make do with just the one.
+Rolls are virtually only ever done for combat and where they’re not, they’re usually for contested actions. This means that out of combat situations force the players to think and present the GM with believable responses to situations, getting creative to overcome real challenges.</description>
+    </item>
+    
+    <item>
+      <title>Character Generation</title>
+      <link>http://maso.wiki/rules/basics/character-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/basics/character-generation/</guid>
+      <description>A character is almost entirely role-played. When creating a character your effort should be on developing their past and career. From there it makes choosing your stats and traits much easier and you have a more rounded character at the end of it.
+Generation On generation, a character has 1 positive trait, 1 negative trait and 1 trade-off trait to define their skills with.They may also “purchase” more positive traits by also taking negative ones.</description>
+    </item>
+    
+    <item>
+      <title>Player &#34;Classes&#34;</title>
+      <link>http://maso.wiki/rules/basics/player-classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://maso.wiki/rules/basics/player-classes/</guid>
+      <description>Drivers Drivers can vary from ferryfolk driving Infantry Fighting Vehicles to tank drivers. They are flexible in their job description and very aware that their rides can get blown out from under them in the blink of an eye. As such they’re among the most hard-bitten, devil-may-care characters. Think of the tank commander holding his shot under fire until a mech exposes a weak-spot or the IFV driver drifting her ride up against a building to provide safe cover for infantry loading up hostages.</description>
+    </item>
+    
+  </channel>
+</rss>
