@@ -46,16 +46,24 @@ Shots may be targeted against vehicles, depending on a character’s reaction st
 # Critical Hits
 Natural 20s on hits against vehicles cause critical hits. If there is a piece of equipment in the location hit, roll to determine if anything happens to it.
 {{< table style="table-striped" >}}
-| D6 roll |                                      |
-| ------- | ------------------------------------ |
-| 1       | Equipment disabled 1 round           |
-| 2       | Equipment disabled d3 rounds         |
-| 3       | Equipment disabled d3 rounds         |
-| 4       | Equipment disabled until repair      |
-| 5       | Equipment disabled until repair      |
-| 6       | Equipment destroyed (ammo explosion) |
+| 2D6 roll |                                      |
+| -------- | ------------------------------------- |
+| 1        | Equipment disabled 1 round            |
+| 2        | Equipment disabled d3 rounds          |
+| 3        | Equipment disabled d3 rounds          |
+| 4        | Equipment disabled until repair       |
+| 5        | Equipment destroyed                   |
+| 6        | Equipment overcharged!                |
+| 7        | Equipment disabled 1 round            |
+| 8        | Equipment disabled d3 rounds          |
+| 9        | Equipment disabled d6 rounds          |
+| 10       | Equipment overcharged!                |
+| 11       | Runaway electrics*                    |
+| 12       | Equipment destroyed (ammo explosion*) |
 {{< /table >}}
-
+Equipment overcharged!: For 1d3 rounds, equipment deals max damage or provides +3 to rolls. At the end of those rounds, it is destroyed.
+Runaway Electrics!: If you push yourself, you incur 2 heat per action.
+Ammo Explosion!: For equipment that has ammo, do damage directly to structure based on 3 x (max damage dice of weapon). If this damage destroys a location, deal damage to armor of nearby locations.
 # Immobilization and Reduced Mobility
 Mechs and ground vehicles can be damaged in such a way that that their mobility is permanent reduced, up to being completely immobilized. Damage to a vehicle’s motive device(s) (whether that be tracks, wheels or hover curtain) will reduce its mobility by a certain amount depending on the vehicle. 
 
