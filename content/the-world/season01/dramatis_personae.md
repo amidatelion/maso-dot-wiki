@@ -66,6 +66,17 @@ Pirate “queen” of some kind. Very little known about her. Leads Blood Banner
 ### Deckard True
 Leader of “Red Banners,” an unidentified subgroup of the Blood Banners. Pilots the Melior heavy mech. Extremely anti-corporate, anti-bureau ideologies.
 
+## Independent Merchant Protection Services
+IMPS, geddit?
+### Captain Daud Roam
+One of the most well-known privateers on the Rim. Competent, honorable, and more than a little canny. Captains the _Feathers_, a hopped-up, heavily armed corvette with rotating laser-cannon arms.
+### Idi Roam
+Captain Roam's diminuitive brother. Pilots a custom Manta light bomber. 
+### Captain Ammand de D.
+Another well-known privateer. Captains a light cruiser from the War of Coronand Extinction, albeit with updated guns. 
+### Trisha Oum
+Young engineer and mechanic. Technically captain of the SecCorp corvette _The Bee_, she's looking for Deckard True to find out about the Melior's jumpjets.
+
 ## Misc
 ### Kamon Saelim
 Danny’s ex and daughter of Reginald Saelim. Skilled mech pilot and diplomat. Helped Danny write the original pitch for Recon-in-Force. Now unaligned with SSD and CDF, working on her own project. 
