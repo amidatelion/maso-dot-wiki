@@ -106,5 +106,12 @@ Emperor of the, uh, Perfect Empire. Kind of a big deal. Favours the Conductress 
 ### Conductress Dominant Yreza
 High-ranking Conductress. Scheming. Appears to know about something called a “Machine Heresy.”
 
+# Mechs of Note
+## The Blackmech
+What is the Blackmech? Is it the form of it, its structure? Because it has never had a consistent one, modified by its pilots' whims and needs, or as its tech-cult interprets *its* desires. No, the Blackmech is more than anything the adaptive, almost invasive intelligence residing in dedicate banks and processors. That's what people fear, not the blackened armor, not the booming weapons. They fear the thing that takes a human pilot and makes of them a meat puppet designed for *violence*.
 
+## Melior
+The Melior is Deckard True's personal mech. Weighing in at seventy tons and faster than most things that are twenty tons lighter, the Melior is every bit of advanced tech the pirates could get their hands on, mated to a primitive but highly effective fission reactor. Enormous cannons destroy smaller mechs outright, while vicious mechanical scissors dismember others for salvage. With stolen Mitsui tech, its aerial maneuverability is virtually unmatched.
 
+## Yang Xiao Long
+Named for a fictional hero from the family's past, the *Yang Xiao Long* is a hyper-advanced light mech capable of dishing out damage equal to a medium. Converting heat in novel ways to melt most armor types, along with new myomers that operate better under thermal load, the *Yang Xiao Long* hits hard in Trisha Oum's hands. She has yet to do a proper deep-dive on it and find all the "gifts" her mother left her in it.
