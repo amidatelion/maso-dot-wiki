@@ -26,7 +26,7 @@ A non-descript midwesterner, Boden is First Recon's dropship pilot. Easy-going a
 ### Britta Andersen
 Shorter and wider than her brother, Britta andersen has a pugilist's physique, sharing Boden's hair, but less of his congeniality. Undergoing therapy and psychiatric care following dangerous reactions to neurohelms, she fights as a frontline lancer in her experimental Mannequin mech.
 
-### Commander Catherine Elizabeth duMaurier
+### Commander Catherine Elizabeth du Maurier
 First Recon's medical officer, duMaurier is a specialist in emergency relief and refugee situations. Her career has kept her away from the Core, where she apparently has family. While she won't be winning any TacOps competitions, she is a capable battlefield commander and not a bad shot with a pistol.
 
 ### Lieutenant Otto Fuchs
@@ -38,7 +38,7 @@ Nicknamed So, this raven was doing time after hacking orbital satellites for fun
 ### Xialin Liu
 A former competitive gamer, Xialin's talents at manipulating people were picked up by the Bureau wholly by accident. Having been fired from her team, she joined the Bureau as a diplomatic liaison and quickly got to work cutting deals and making enemies. She has some manner of lifebond with the raven Nicklenock.
 
-### Nicknock
+### Nicklenock
 A huge, bad tempered raven that serves almost as Xialin's familiar. Has a better-than-average facility with spoken languages and mimicry. An asshole.
 
 
