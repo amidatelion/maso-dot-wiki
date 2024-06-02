@@ -2,7 +2,7 @@ baseURL = 'https://maso.wiki/'
 languageCode = 'en-us'
 title = 'M.A.S.O - Mixed Arms Space Opera'
 theme = "hugo-book"
-min_version = "0.124"
+
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
@@ -18,17 +18,23 @@ BookSearch = true
 BookComments = false
 BookSection = 'rules'
 
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content'
+  weight = 1
 
-ordersectionsby = "weight" # ordersectionsby = "title"
-disableSearch = false # default is false
-disableReadmoreNav = false # set true to hide prev/next navigation, default is false
-highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
-menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+[module.hugoVersion]
+extended = true
+min = '0.124.0'
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
