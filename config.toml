@@ -1,9 +1,8 @@
 baseURL = 'https://maso.wiki/'
 languageCode = 'en-us'
 title = 'M.A.S.O - Mixed Arms Space Opera'
-theme = "ace-documentation"
-pygmentsCodeFences = true
-pygmentsStyle = "monokailight"
+theme = "hugo-book"
+min_version = "0.124"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
@@ -13,6 +12,13 @@ enableMissingTranslationPlaceholders = false
 googleAnalytics = ""
 
 [params]
+BookTheme = 'dark'
+BookToC = true
+BookSearch = true
+BookComments = false
+BookSection = 'rules'
+
+
 ordersectionsby = "weight" # ordersectionsby = "title"
 disableSearch = false # default is false
 disableReadmoreNav = false # set true to hide prev/next navigation, default is false

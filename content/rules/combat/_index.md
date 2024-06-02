@@ -4,8 +4,7 @@ description = "pew pew"
 weight = 2
 +++
 
-{{< lead >}}
+{{< hint info >}}
 Herein are the combat rules of MASO - things thing gon' get crunchy.  
 
-{{< /lead >}}
-{{< childpages >}}
+{{< /hint >}}
