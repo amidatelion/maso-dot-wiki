@@ -21,7 +21,7 @@ BookSection = 'rules'
 [languages]
 [languages.en]
   languageName = 'English'
-  contentDir = 'content.en'
+  contentDir = 'content'
   weight = 1
 
 [module.hugoVersion]
