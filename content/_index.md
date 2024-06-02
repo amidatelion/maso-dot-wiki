@@ -3,10 +3,12 @@ title = "MASO - Mixed Arms Space Opera"
 description = "MASO - Mixed Arms Space Opera"
 +++
 
-{{< lead >}}
+{{< hint info >}}
 MASO is a prototype tabletop roleplaying game that takes its cues from Battletech, mecha anime, and [Lancer](https://massif-press.itch.io/corebook-pdf).  
 
-{{< /lead >}}
+This version is purely an exploration of the infantry rules. Maybe some vehicles.
+
+{{< /hint >}}
 
 
 ## Features
@@ -67,7 +69,7 @@ MASO is a prototype tabletop roleplaying game that takes its cues from Battletec
 					Dice-heavy.
 				</h5>
 				<p class="card-text text-muted">
-					MASO requires a d20 and a looooot of d6s. Go buy a cube. Or several. Or use a dice roller, I'm not your dad.
+					MASO requires d6s. Go buy a cube. Or several. Or use a dice roller, I'm not your dad.
 				</p>
 			</div>
 		</div>

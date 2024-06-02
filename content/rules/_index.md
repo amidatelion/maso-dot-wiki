@@ -3,8 +3,7 @@ title = "Rules"
 description = "Rules"
 +++
 
-{{< lead >}}
+{{< hint info >}}
 All rules to be considered in alpha stage.  
 
-{{< /lead >}}
-{{< childpages >}}
+{{< /hint  >}}

@@ -1,128 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>MASO - Mixed Arms Space Opera on M.A.S.O - Mixed Arms Space Opera</title>
-    <link>http://maso.wiki/</link>
-    <description>Recent content in MASO - Mixed Arms Space Opera on M.A.S.O - Mixed Arms Space Opera</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://maso.wiki/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>http://maso.wiki/rules/combat/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/introduction/</guid>
-      <description>Combat is initiated by hostile action by any party. Combat is broken into turns, which run in a dynamic initiative order. Everyone involved in combat gets 1 turn, which is broken up into actions: 1 move action, 1 major action, 1 minor action and free actions. These can be taken in any order.</description>
-    </item>
-    
-    <item>
-      <title>The Player Character</title>
-      <link>http://maso.wiki/rules/basics/pc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/basics/pc/</guid>
-      <description>Stats There are only three stats in M.A.S.O - Body, Reaction, and Smarts. The baseline of all of these is zero, with each point granting a bonus on rolls associated with it. These are fairly self explanatory and but a cursory explanation follows:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MASO - Mixed Arms Space Opera on M.A.S.O - Mixed Arms Space Opera</title><link>http://localhost:1313/</link><description>Recent content in MASO - Mixed Arms Space Opera on M.A.S.O - Mixed Arms Space Opera</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Armour</title><link>http://localhost:1313/rules/gear/armour/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/gear/armour/</guid><description>Armour basics # Armours come in a great many types. Mostly they are vests, but more elaborated fits exist. Armors have an Armor Value (AV). They block damage based on that AV. Note that many ammunitions have a Penetration Value (PV) that bypass certain amounts of AV.
+Examples: Jay is wearing Kevlar, which has an AV of 3. He is shot by a pistol shooting QuakeMaker ammo which has a PV of 0.</description></item><item><title>Introduction</title><link>http://localhost:1313/rules/combat/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/combat/introduction/</guid><description>Combat is initiated by hostile action by any party. Combat is broken into turns, which run in a dynamic initiative order. Everyone involved in combat gets 1 turn, which is broken up into actions: 1 move action, 1 major action, 1 minor action and free actions. These can be taken in any order.</description></item><item><title>The Player Character</title><link>http://localhost:1313/rules/basics/pc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/basics/pc/</guid><description>Stats # There are only three stats in M.A.S.O - Body, Nerves, and Wit. The baseline of all of these is zero, with each point granting a bonus on rolls associated with it. These are fairly self explanatory and but a cursory explanation follows:
 Body: Represents feats of strength and endurance.
-Reaction: Represents feats of precision and reflexes.
-Smarts: Represents feats of mental and interpersonal nature.
-Traits Traits are where the character modifications come from in M.</description>
-    </item>
-    
-    <item>
-      <title>Dice and Rolls</title>
-      <link>http://maso.wiki/rules/basics/dice-and-rolls/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/basics/dice-and-rolls/</guid>
-      <description>You only need two dice for M.A.S.O. A d20 and a d6. Well, maybe a lot of d6s. But you can make do with just the one.
-Rolls are virtually only ever done for combat and where they’re not, they’re usually for contested actions. This means that out of combat situations force the players to think and present the GM with believable responses to situations, getting creative to overcome real challenges.</description>
-    </item>
-    
-    <item>
-      <title>Initiative</title>
-      <link>http://maso.wiki/rules/combat/initiative/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/initiative/</guid>
-      <description>Initiative isn’t rolled for or set like some games. It is seized, which means whoever wants to go next, can. On the first round of combat, someone seizes the “first” position. If two people want that position, one or the other can concede or they roll off. A seize roll is 1d20 + any modifiers. Ties result in another roll off. The process repeats until everyone has seized a place in the initiative order.</description>
-    </item>
-    
-    <item>
-      <title>Character Generation</title>
-      <link>http://maso.wiki/rules/basics/character-generation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/basics/character-generation/</guid>
-      <description>A character is almost entirely role-played. When creating a character your effort should be on developing their past and career. From there it makes choosing your stats and traits much easier and you have a more rounded character at the end of it.
-Generation On generation, a character has 1 positive trait, 1 negative trait and 1 trade-off trait to define their skills with.They may also “purchase” more positive traits by also taking negative ones.</description>
-    </item>
-    
-    <item>
-      <title>The Turn</title>
-      <link>http://maso.wiki/rules/combat/the-turn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/the-turn/</guid>
-      <description>A turn is 1 move action, 1 major action, 1 minor action and free actions, taken in any order.
-Move Action A move action allows a player to move up to their speed in any valid direction. If they are in a vehicle, they move at the vehicle’s speed. Terrain or other effects may reduce this speed, but nothing may increase it. Instead, a player may push themselves or their vehicle.</description>
-    </item>
-    
-    <item>
-      <title>Movement</title>
-      <link>http://maso.wiki/rules/combat/movement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/movement/</guid>
-      <description>A player may move their speed in combat. On foot, their speed is fixed. In a vehicle, they have three speeds: combat, cruising, flat out, noted on the sheet. A combat speed is slowest, but allows for the best maneuverability and is always available. Cruising is meant for covering large distance and in order to enter cruising speed, a vehicle must have spent 1 round at combat speed as it takes time to accelerate.</description>
-    </item>
-    
-    <item>
-      <title>Player &#34;Classes&#34;</title>
-      <link>http://maso.wiki/rules/basics/player-classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/basics/player-classes/</guid>
-      <description>Drivers Drivers can vary from ferryfolk driving Infantry Fighting Vehicles to tank drivers. They are flexible in their job description and very aware that their rides can get blown out from under them in the blink of an eye. As such they’re among the most hard-bitten, devil-may-care characters. Think of the tank commander holding his shot under fire until a mech exposes a weak-spot or the IFV driver drifting her ride up against a building to provide safe cover for infantry loading up hostages.</description>
-    </item>
-    
-    <item>
-      <title>Attacks</title>
-      <link>http://maso.wiki/rules/combat/attacks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/attacks/</guid>
-      <description>Attacks are a Reaction check on a d20 against a target 15 with any relevant modifiers. This includes the player’s modifiers and the target’s, of which there can be many, and is where the complexity in M.A.S.O really comes from. Aside from weapon modifiers, here are some common ones
-Size Differences Targets gain size penalties and bonuses based on size differences. For every size category that a target is larger than the player, the player gets a +1 bonus against.</description>
-    </item>
-    
-    <item>
-      <title>Damage</title>
-      <link>http://maso.wiki/rules/combat/damage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/damage/</guid>
-      <description>Damage can broadly be split into Infantry and Vehicle Damage models.
-Infantry Damage Damage against a person or beast or really anything organic is done against their HP and usually mitigated by armour. Infantry armour blocks damage. So when a shot connects, it does its damage first to the armour and then to the wearer’s hit points. Hit points are defined your Body stat - namely 10 x your Body (minimum of 10).</description>
-    </item>
-    
-    <item>
-      <title>Heat</title>
-      <link>http://maso.wiki/rules/combat/heat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/heat/</guid>
-      <description>Under Construction  Subject to massive revision. Not really happy with how it slows down combat.    Heat is a characteristic of vehicles that defines how often they are able to fire in a given round. They have a latent heat, heat generation, heat sinking and a heat limit. Latent heat is the baseline level of heat that the mech is currently possessed of. A vehicle may fire all of its weapons as a major action or move its speed without generating Heat.</description>
-    </item>
-    
-    <item>
-      <title>Morale</title>
-      <link>http://maso.wiki/rules/combat/morale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://maso.wiki/rules/combat/morale/</guid>
-      <description>Unit Morale is invisibly tracked on a scale from 0 to 20. That is, the GM tracks it and it is invisible to the players.
-Morale starts at the beginning of a campaign at a level determined by the GM and can be increased by player actions and decreased by enemy actions (or, with really bad roles/plans, player actions). If morale ever hits 0 a zero morale event happens. This is bad.</description>
-    </item>
-    
-  </channel>
-</rss>
+Nerves: Represents feats of precision and reflexes.
+Wit: Represents feats of mental and interpersonal nature.
+Increasing Stats # The cost to increase Stats increases logarhythmically.</description></item><item><title>Dice and Rolls</title><link>http://localhost:1313/rules/basics/dice-and-rolls/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/basics/dice-and-rolls/</guid><description>You only need 1 type of die for M.A.S.O. - but preferably 3d6. But you can make do with just the one.
+All checks, whether they be attack rolls or skill checks, are done on 3d6 and target 15 for success. These checks are modified by the situation, stats and perks.</description></item><item><title>Initiative</title><link>http://localhost:1313/rules/combat/initiative/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/combat/initiative/</guid><description>Initiative isn’t rolled for or set like some games. It is seized, which means whoever wants to go next, can. On the first round of combat, someone seizes the “first” position. If two people want that position, one or the other can concede or they roll off. A seize roll is 3d6 + any modifiers. Ties result in another roll off. The process repeats until everyone has seized a place in the initiative order.</description></item><item><title>Character Generation</title><link>http://localhost:1313/rules/basics/character-generation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/basics/character-generation/</guid><description>Introduction # A character is almost entirely role-played. When creating a character your effort should be on developing their past and career. From there it makes choosing your stats and traits much easier and you have a more rounded character at the end of it.
+Generation # On generation, a character has 1 positive trait, 1 negative trait and 1 trade-off trait to define their skills with.They may also “purchase” more positive traits by also taking negative ones.</description></item><item><title>The Turn</title><link>http://localhost:1313/rules/combat/the-turn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/combat/the-turn/</guid><description>A turn is 1 move action, 1 major action, 1 minor action and free actions, taken in any order.
+Move Action # A move action allows a player to move up to their speed in any valid direction. If they are in a vehicle, they move at the vehicle’s speed. Terrain or other effects may reduce this speed, but nothing may increase it. Instead, a player may push themselves or their vehicle.</description></item><item><title>Movement</title><link>http://localhost:1313/rules/combat/movement/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/combat/movement/</guid><description>A player may move their speed in combat.
+Infantry Movement # Infantry have great flexibility in movement. Unburdened infantry move their speed horizontally across any terrain, though that terrain may force checks that can affect their speed. Infantry that are overloaded also move at half their speed.
+Infantry can ascend 1 level vertically with appropriate tools - i.e. a ladder, pitons, etc. Certain surfaces can be climbed by without tooling and a relevant check.</description></item><item><title>Player "Classes"</title><link>http://localhost:1313/rules/basics/player-classes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/basics/player-classes/</guid><description>Drivers # Drivers can vary from ferryfolk driving Infantry Fighting Vehicles to tank drivers. They are flexible in their job description and very aware that their rides can get blown out from under them in the blink of an eye. As such they’re among the most hard-bitten, devil-may-care characters. Think of the tank commander holding his shot under fire until a mech exposes a weak-spot or the IFV driver drifting her ride up against a building to provide safe cover for infantry loading up hostages.</description></item><item><title>Attacks</title><link>http://localhost:1313/rules/combat/attacks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/combat/attacks/</guid><description>Attacks are a Nerves check on 3d6 against a target 15 with any relevant modifiers. This includes the player’s modifiers and the target’s, of which there can be many, and is where the complexity in M.A.S.O really comes from. Aside from weapon modifiers, here are some common ones
+Size Differences # Targets gain size penalties and bonuses based on size differences. For every size category that a target is larger than the player, the player gets a +1 bonus against.</description></item><item><title>Damage</title><link>http://localhost:1313/rules/combat/damage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/combat/damage/</guid><description>Damage can broadly be split into Infantry and Vehicle Damage models.
+Infantry Damage # Damage against a person or beast or really anything organic is done against their HP and usually blocked by armour. Infantry armour blocks damage. So when a shot connects, it does its damage first to the armour and then to the wearer’s hit points. Hit points are defined your Body stat - namely 5 x your Body (minimum of 10).</description></item><item><title>Morale</title><link>http://localhost:1313/rules/combat/morale/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/rules/combat/morale/</guid><description>Unit Morale is invisibly tracked on a scale from 0 to 20. That is, the GM tracks it and it is invisible to the players.
+Morale starts at the beginning of a campaign at a level determined by the GM and can be increased by player actions and decreased by enemy actions (or, with really bad roles/plans, player actions). If morale ever hits 0 a Zero Morale Event happens. This is bad.</description></item></channel></rss>

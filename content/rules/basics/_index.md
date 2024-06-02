@@ -4,8 +4,7 @@ description = "Basics"
 weight = 1
 +++
 
-{{< lead >}}
+{{< hint info >}}
 Herein are the basic rules of MASO - things to get you started, making a character, how to roll dice, how to manage your character(s).  
 
-{{< /lead >}}
-{{< childpages >}}
+{{< /hint >}}
