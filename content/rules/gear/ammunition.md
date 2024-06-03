@@ -7,202 +7,93 @@ weight = 3
 ## Pistol   
    
 ### 9mm   
-{{< columns >}}   
-# Ammo   
-RIP   
-QuakeMaker   
-PSO   
-Standard (PST)   
-AP   
-Next Gen (PBP)   
-<---> 
-# PV   
-0   
-0   
-1   
-2   
-3   
-4   
-<---> 
-# Notes   
-Bleeding   
-Subsonic   
-None   
-None   
-None   
-None   
-{{< /columns >}}   
+| Ammo           | PV | Notes    |
+|----------------|----|----------|
+| RIP            | 0  | Bleeding |
+| QuakeMaker     | 0  | Subsonic |
+| PSO            | 1  | None     |
+| Standard (PST) | 2  | None     |
+| AP             | 3  | None     |
+| Next Gen (PBP) | 4  | None     |
    
 ### Magnum   
-{{< columns >}}   
-# Ammo   
-Soft point   
-FMJ   
-AP-M   
-<---> 
-# PV   
-0   
-2   
-6   
-<---> 
-# Notes   
-+6 damage   
-+3   
-None   
-{{< /columns >}}   
+| Ammo       | PV | Notes     |
+|------------|----|-----------|
+| Soft point | 0  | +6 damage |
+| FMJ        | 2  | +3        |
+| AP-M       | 6  | None      |
    
 ## SMG   
 ### 9mm   
-{{< columns >}}   
-# Ammo   
-RIP   
-QuakeMaker   
-PSO   
-Standard (PST)   
-AP   
-Next Gen (PBP)   
-<---> 
-# PV   
-0   
-0   
-1   
-2   
-3   
-4   
-<---> 
-# Notes   
-Bleeding   
-Subsonic   
-None   
-None   
-None   
-None   
-{{< /columns >}}   
+| Ammo           | PV | Notes    |
+|----------------|----|----------|
+| RIP            | 0  | Bleeding |
+| QuakeMaker     | 0  | Subsonic |
+| PSO            | 1  | None     |
+| Standard (PST) | 2  | None     |
+| AP             | 3  | None     |
+| Next Gen (PBP) | 4  | None     |
+     
    
 ### Five-Seven   
-{{< columns >}}   
-# Ammo   
-R37.F   
-Tracer   
-SS190   
-SS193   
-<---> 
-# PV   
-0   
-3   
-2   
-6   
-<---> 
-# Notes   
-Shattering     
-+2 to hit   
-Subsonic   
-None   
-{{< /columns >}}   
+| Ammo   | PV | Notes      |
+|--------|----|------------|
+| R37.F  | 0  | Shattering |
+| Tracer | 3  | +2 to hit  |
+| SS190  | 2  | Subsonic   |
+| SS193  | 6  | None       |  
    
 ## Assault Rifle   
 ### Bloc   
-{{< columns >}}   
-# Ammo   
-HP   
-Reduced Speed (RS)   
-BT   
-7N40   
-Igolnik   
-<---> 
-# PV   
-0   
-2   
-4   
-4   
-7   
-<---> 
-# Notes   
-+3 damage   
-Subsonic   
-None   
-+2 to hit   
-None   
-{{< /columns >}}   
+| Ammo               | PV | Notes     |
+|--------------------|----|-----------|
+| HP                 | 0  | +3 damage |
+| Reduced Speed (RS) | 2  | Subsonic  |
+| BT                 | 4  | None      |
+| 7N40               | 4  | +2 to hit |
+| Igolnik            | 7  | None      |  
    
 ### Nato   
-{{< columns >}}   
-# Ammo   
-Warmaggedon   
-RRLP  
-M855   
-M855A1   
-SOST   
-S-AP   
-<---> 
-# PV   
-0   
-2  
-3   
-5   
-2   
-7   
-<---> 
-# Notes   
-+1 damage  
-+1 to hit, +1 damage 
-None   
-None   
-None  
-+3 to hit     
-None  
-{{< /columns >}}   
-   
-   
-### Exotics   
+| Ammo        | PV | Notes                |
+|-------------|----|----------------------|
+| Warmaggedon | 0  | +1 damage            |
+| RRLP        | 2  | +1 to hit, +1 damage |
+| M855        | 3  | None                 |
+| M855A1      | 5  | None                 |
+| SOST        | 2  | +3 to hit            |
+| S-AP        | 7  | None                 |   
    
 ## Battle Rifle   
 ### Bloc   
-{{< columns >}}   
-# Ammo   
-HP   
-RS   
-T-45M1   
-BP  
-MAI AP   
-<---> 
-# PV   
-0   
-2   
-3   
-6   
-7
-<---> 
-# Notes   
-+4 damage   
-Subsonic   
-Shattering   
-None   
-None
-{{< /columns >}}   
+| Ammo   | PV | Notes      |
+|--------|----|------------|
+| HP     | 0  | +4 damage  |
+| RS     | 2  | Subsonic   |
+| T-45M1 | 3  | Shattering |
+| BP     | 6  | None       |
+| MAI AP | 7  | None       |
    
 ### NATO   
-{{< columns >}}   
-# Ammo   
-Ultra   
-FMJ   
-M62 Tracer   
-M993   
-<---> 
-# PV   
-2   
-4   
-4   
-7   
-<--->   
-# Notes   
-+3 Damage   
-None   
-+2 to hit   
-None   
-{{< /columns >}}   
+| Ammo       | PV | Notes     |
+|------------|----|-----------|
+| Ultra      | 2  | +3 Damage |
+| FMJ        | 4  | None      |
+| M62 Tracer | 4  | +2 to hit |
+| M993       | 7  | None      | 
    
 ### Exotics   
    
-## Anti-Material   
-   
+## Anti-Material
+### .338 Lapua Magnum
+| Ammo  | PV | Notes                    |
+|-------|----|--------------------------|
+| TAC-X | 4  | Vehicle-scale, +1 to hit |
+| FMJ   | 6  | Vehicle-scale            |
+| AP    | 7  | Vehicle-scale            |
+
+### .50
+| Ammo  | PV | Notes                     |
+|-------|----|---------------------------|
+| M33   | 5  | Vehicle-scale             |
+| HEIAP | 6  | Vehicle-scale, Incendiary |
+| AP    | 7  | Vehicle-scale             |

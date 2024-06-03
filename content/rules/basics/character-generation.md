@@ -22,43 +22,20 @@ Write some easy descriptors for your character to get the point across real quic
 ## Licenses
 Licenses determine what vehicle can be driven or piloted. Everyone in M.A.S.O. starts with a Basic License. Congrats, you can drive a car, and therefore tanks, IFVs and all basic vehicles. Licenses sometimes have prerequisites, as seen on the tables below:
 
-{{< columns >}}
-# License
-Basic  
-Tank  
-Aircraft  
-Helicopter  
-VTOL  
-Drones*  
-Watercraft*  
-Ships  
-Capital Ships  
-<---> 
-# Enables
-Traditional land vehicles  
-Tread  
-Jet, prop or other aircraft  
-Rotor craft  
-VTOL aircraft  
-Fine control of drones  
-Fine control of small boats  
-Up to frigates  
-Up to carriers    
-<---> 
-# Requires
-N/A  
-Basic  
-Basic  
-Basic  
-Aircraft or Helicopter  
-Basic  
-Basic  
-Watercraft  
-Ships  
-{{< /columns >}}
+| License       | Enables                     | Requires               | Training time    |
+|---------------|-----------------------------|------------------------|------------------|
+| Basic         | Traditional land vehicles   | N/A                    | on Character Gen |
+| Tank          | Tread                       | Basic                  | 60 days          |
+| Aircraft      | Jet, prop or other aircraft | Basic                  | 90 days          |
+| Helicopter    | Rotor craft                 | Basic                  | 270 days         |
+| VTOL          | VTOL aircraft               | Aircraft or Helicopter | 60/180 days✝     |
+| Drones*       | Fine control of drones      | Basic                  | 5 days           |
+| Watercraft*   | Fine control of small boats | Basic                  | 5 days           |
+| Ships         | Up to frigates              | Watercraft             | 30 days          |
+| Capital Ships | Up to carriers              | Ships                  | 365 days         |
 
 
 
 \* Can be operated without license - problems will crop up
+✝ 60 days if training on Heli, 180 days if trained on Aircraft
 
-Note: On first glance this gives infantry a statistical advantage and dedicated tank/vehicle drivers especially. However, given the sheer firepower disadvantage they face, this is basically required. Even a tank driver might be blown free of a tank much more quickly than a mech pilot and so will have to rely on their Body, Nerves and Wit without mechanical aid more.  
