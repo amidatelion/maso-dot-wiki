@@ -23,47 +23,12 @@ He is then shot by a rifle firing FMJ, which has a PV of 4. It also rolls a 3. F
 | Aramid            |           2 |      0 |
 | Kevlar            |           3 |      1 |
 | Composite polymer |           3 |      0 |
-| Aluminum          |           4 |      1 |
+| Aluminum*         |           4 |      1 |
 | Ballistic Steel   |           4 |      2 |
 | Ceramic plate     |           5 |      3 |
-| Composite plate   |           6 |      3 |
+| Composite plate*  |           6 |      3 |
 | Titan exotica     |           7 |      5 |
 | Hexagrid exotica  |           7 |      4 |
-
-{{< columns >}}
-# Armor
-Aramid  
-Kevlar  
-Composite polymer  
-Aluminum*  
-Ballistic Steel  
-Ceramic plate  
-Composite plate*  
-Titan exotica  
-Hexagrid exotica  
-<---> 
-# Armor Value
-2  
-3  
-3  
-4  
-4  
-5  
-6  
-7  
-7  
-<---> 
-# Weight
-0  
-1  
-0  
-1  
-2  
-3  
-3  
-5  
-4  
-{{< /columns >}}
 
 \* indicates armour that is easily destructible
 

@@ -16,21 +16,13 @@ There are only three stats in M.A.S.O - Body, Nerves, and Wit. The baseline of a
 
 The cost to increase Stats increases logarhythmically. For the purposes of this run, consider Stats capped at 5, though the GM could be convinced to go beyond. For comparison, an Olympian is probably a 7. In the greater M.A.S.O ruleset, anything 8 or higher is considered Peak Human and usually requires genetic modification to accomplish. 
 
-{{< columns >}}
-# Stat Number
-0->1  
-1->2  
-2->3  
-3->4  
-4->5  
-<---> 
-# Point Cost
-1  
-2  
-3  
-4  
-5  
-{{< /columns >}}
+| Stat Increase | Point Cost |
+|---------------|------------|
+| 0->1          | 1          |
+| 1->2          | 2          |
+| 2->3          | 3          |
+| 3->4          | 4          |
+| 4->5          | 5          |
 
 ## Traits
 

@@ -26,6 +26,8 @@ For every 50kph a vehicle has moved in its previous turn, it gains a +1 to be hi
 
 ## Called Shots
 
+You may make a called shot against a target at a -5 to hit. This can be the wheel of a car, or some poor fuck's dome.  
+
 ## Scaled weapnry
 
 Being hit with weaponry of a different scale is devastating. An infantry character hit by a vehicle weapon will likely not survive and will frequently be injured by a near miss. A vehicle hit by a ship-based weapon is likely scrap or have components blow off by a near miss.   

@@ -5,149 +5,77 @@ weight = 2
 +++
 
 ## Pistols
-{{< columns >}}
-# Guns
-Glock   
-Beretta  
-Manhurin  
-<---> 
-# Damage
-1d6  
-1d6  
-3d6  
-<---> 
-# Mods  
-2  
-0  
-1  
-<---> 
-# Notes  
-None  
-Reliable    
-None   
-{{< /columns >}}
+| Guns     | Damage | Mods | Notes    |
+|----------|--------|------|----------|
+| Glock    | 1d6    | 2    | None     |
+| Beretta  | 1d6    | 0    | Reliable |
+| Manhurin | 3d6    | 1    | None     |
 
 ## SMGs
-{{< columns >}}
-# Guns
-MP5  
-P90  
-Vityaz  
-<---> 
-# Damage
-1d6  
-1d6  
-1d6  
-<---> 
-# Mods
-2  
-0  
-4   
-<---> 
-# Notes
-None  
-+1 PV  
-None  
-{{< /columns >}}
+| Guns   | Damage | Mods | Notes |
+|--------|--------|------|-------|
+| MP5    | 1d6    | 2    | None  |
+| P90    | 1d6    | 0    | +1 PV |
+| Vityaz | 1d6    | 4    | None  |
 
 ## Rifles
 
 ### Bloc
 
 #### Assault Rifle
-{{< columns >}}
-# Gun
-AK-74  
-AKS-74U  
-AK-101  
-AK-12  
-<---> 
-# Damage
-2d6  
-2d6  
-2d6  
-2d6  
-<---> 
-# Mods
-1  
-3  
-3  
-5  
-<---> 
-# Notes
-Reliable  
-Reliable, -1 to hit  
-Reliable  
-None      
-{{< /columns >}}
+| Gun     | Damage | Mods | Notes               |
+|---------|--------|------|---------------------|
+| AK-74   | 2d6    | 1    | Reliable            |
+| AKS-74U | 2d6    | 3    | Reliable, -1 to hit |
+| AK-101  | 2d6    | 3    | Reliable            |
+| AK-12   | 2d6    | 5    | None                |
 
 #### Battle Rifle
-{{< columns >}}
-# Gun
-AKM  
-RPK  
-AK-103  
-<---> 
-# Damage  
-2d6  
-2d6  
-2d6  
-<---> 
-# Mods
-1  
-1  
-3    
-<---> 
-# Notes
-Reliable  
-Suppression  
-None
-{{< /columns >}} 
+| Gun    | Damage | Mods | Notes       |
+|--------|--------|------|-------------|
+| AKM    | 2d6    | 1    | Reliable    |
+| RPK    | 2d6    | 1    | Suppression |
+| AK-103 | 2d6    | 3    | None        |
 
 ### NATO
 #### Assault Rifle
-{{< columns >}}
-# Gun
-M4A1  
-G3  
-AUG  
-<---> 
-# Damage  
-2d6  
-2d6  
-2d6  
-<---> 
-# Mods
-5  
-2  
-0  
-<---> 
-# Notes  
-None  
-+1 to hit  
-Kitted  
-{{< /columns >}}  
+| Gun  | Damage | Mods | Notes     |
+|------|--------|------|-----------|
+| M4A1 | 2d6    | 5    | None      |
+| G36  | 2d6    | 2    | +1 to hit |
+| AUG  | 2d6    | 0    | Kitted    |
 
 #### Battle Rifle
-{{< columns >}}
-# Gun  
-SCAR-H  
-M1A  
-FAL  
-<---> 
-# Damage
-2d6  
-2d6  
-2d6  
-<---> 
-# Mods  
-3  
-1  
-2  
-<---> 
-# Notes  
-None  
-Reliable  
-+1 damage
-{{< /columns >}}
+| Gun    | Damage | Mods | Notes     |
+|--------|--------|------|-----------|
+| SCAR-H | 2d6    | 3    | None      |
+| M39    | 2d6    | 1    | Reliable  |
+| FAL    | 2d6    | 2    | +1 damage |
 
+## Sniper Rifles
+
+### Bloc
+| Gun   | Damage | Mods | Notes     |
+|-------|--------|------|-----------|
+| SV-98 | 4d6    | 2    | +4 to hit |
+| SVDK  | 4d6    | 3    | +2 to hit |
+
+### Nato
+| Gun   | Damage | Mods | Notes     |
+|-------|--------|------|-----------|
+| Scout | 4d6    | 1    | +5 to hit |
+| M24   | 4d6    | 2    | +3 to hit |
+
+## Anti-Material Rifles
+
+### Bloc
+| Gun    | Damage | Mods | Notes     |
+|--------|--------|------|-----------|
+| OSV-96 | 6d6    | 0    | +3 to hit |
+| Lobaev | 5d6    | 4    | +3 to hit |
+
+### NATO
+| Gun  | Damage | Mods | Notes     |
+|------|--------|------|-----------|
+| M82  | 6d6    | 0    | +3 to hit |
+| AXMC | 5d6    | 4    | +3 to hit |
