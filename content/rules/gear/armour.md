@@ -16,7 +16,20 @@ He is then shot by another pistol, shooting PSO, which has a PV of 1. It also ro
 He is then shot by a rifle firing FMJ, which has a PV of 4. It also rolls a 3. FMJ ignores 4 AV, so none of the the kevlar's AV applies. Jay takes 3 damage. 
 
 
-## Armour materials
+## Armours
+
+| Armor             | Armor Value | Weight |
+|-------------------|-------------|--------|
+| Aramid            |           2 |      0 |
+| Kevlar            |           3 |      1 |
+| Composite polymer |           3 |      0 |
+| Aluminum          |           4 |      1 |
+| Ballistic Steel   |           4 |      2 |
+| Ceramic plate     |           5 |      3 |
+| Composite plate   |           6 |      3 |
+| Titan exotica     |           7 |      5 |
+| Hexagrid exotica  |           7 |      4 |
+
 {{< columns >}}
 # Armor
 Aramid  
