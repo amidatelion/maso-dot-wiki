@@ -1,49 +1,54 @@
 +++
-title = 'Player "Classes"'
+title = 'Player Classes and Factions'
 description = ""
 weight = 4
 +++
 
+# Classes
+There aren't really "classes" in M.A.S.O but you do end up belonging to some broad archetypes. 
 
 ## Drivers 
-Drivers can vary from ferryfolk driving Infantry Fighting Vehicles to tank drivers. They are flexible in their job description and very aware that their rides can get blown out from under them in the blink of an eye. As such they’re among the most hard-bitten, devil-may-care characters. Think of the tank commander holding his shot under fire until a mech exposes a weak-spot or the IFV driver drifting her ride up against a building to provide safe cover for infantry loading up hostages. 
+Does it have an engine and wheels? Then you've probably done extremely inadvisable things to it. Does it carry weapons? You've done terrible things to people with those weapons. It's a rare vehicle these days that has enough armor to resist all infantry weapons and god help you if you find someone with AT weapons, or some vehicle-scale bullshit. As such, a heavy foot on the pedal is advisable. 
 
-Role-playing wise a driver is likely to be a single individual, though some larger tanks may require a crew. It’s up to the player to sort out how they want to handle this with the GM and it’s recommended that they be able to see the Infantry player struggle with RPing a squad first or at least have some communal RP experience from commanding The Commander first. 
+You might get lucky enough to drive a tank! Hell, some Euro tanks drive just like stick-shift cars and you won't even need a tank license. 
 
-Gameplay-wise these drivers tend towards min-maxing, if you can call it that. They are the most likely to be exposed to danger in the relatively flimsiest vehicles and so work themselves, their environment and the rules to the max to ensure their survival and that of their charges. Though there’s something to be said for being a generalist when your ride is constantly being blown out from underneath you.
+Note that tanks are frequently AT magnets. So hey, some of your IFVs might survive if you show up in one!
 
 ## Pilots
 ### Aircraft Pilots
-Once seekers of matchless glory, aircraft pilots have fallen a long way from their glamorous positions in the 20th century. No longer are they the hot shots, the kings and queens of the sky. Indeed, they have taken on a more pedestrian role of support and defenders. When the infantry need help, they are the ones most likely to be able to respond quickly. But real glory comes from defensive operations, when landbound targets are under fire. When the skies darken with drop pods and aerospace fighters, the aircraft pilots come into their own. 
-
-RP-wise aircraft pilots are still how’d you imagine a modern-day fighter pilot, though tempered by the knowledge that they’re basically the meat in a munitions sandwich. They crack wise and are often laid-back, as there’s little to do when a planet isn’t under attack - how one reacts to being forced out of this surety could be something to explore. While it's possible for a player to play a “fat” bird like a cargo plane or gunship, it’s unlikely. Talk to your GM.
-
-Gameplay-wise, Aircraft pilots are kings and queens of Nerves. They live and die by the stat, using their unmatched atmospheric maneuverability to dust aerospace fighters, dodge missiles and deflect lasers. There are devices that allow insertion of aircraft into atmosphere from space and even recovery, though during transit you’re basically a sitting duck.  
-
-Note: VTOL fall roughly into this category and a bit into drivers - not very fleshed out.
+Once upon a time you could aspire to to some kind of slick jet fighter pilot. Good luck finding a group that can afford to maintain one of those these days. You'll be lucky if you can get in a Super tucano. But there's still a ton of utility in being able to use one of the many light aircraft scattered around. Or one of the many cargo craft. Or one of the few craft turned into gunships.
 
 ### Helicopter Pilots
-
-
+Airplanes want to fly. Helicopters want to crash. They crave human blood. You need to be a special sort of crazy to want to fly one of these things in the post-apocalypse.
 
 ### VTOL Pilots
-
+Ok, so see previous. Now imagine that in this alternate past/future, a lot of countries decided that VTOLs were the new hotness. This has killed a lot of people and been widely regarded as a bad move.  
 
 ## Boat drivers  
-Navy fuckers.
+Navy fuckers.  
 
 ## Infantry
-You’re meat before the grinder, men and women clad in paper armour and with small arms standing before armour and giants. But since the first human picked up a rock to kill another, there’s been that other hardass that could still kill them barehanded. The pilots trust in their steel, but you, you have to trust in your skill and each other. 
+Infantry fill a lot of roles. Most of those can be categorized as "meat" or "warm bodies." But they're also the frontline defenders of this world. From shadowy CRTG teams to the freelancers of ION, infantry get shit done. 
 
-The infantry player is actually one of the more complex roles in M.A.S.O., as they must be, by design, in command of a squad. This complicates the role-playing aspect - how much detail do you go into about the squad? How large is it? How focused are you on the infantry commander vs the rest of the squad? 
+Exposed to more and more varied horrors than their colleagues, your average infantryman can be... strange. Have delusions of grandeur, or just plain delusions. They might die fighting bandits or rise to kill AI god-things. 
 
-Gameplay-wise Infantry players are indispensable to M.A.S.O. operations because fundamentally they can go places others can’t go and do things that pilots can’t do. They can explore ruins or collapsed buildings or rescue civilians or root out opposition that holds a command centre. Everything above is the hammer. You are the nail.
+Roll them Bones.
 
-## Non-Combat Characters
-You might not want to play a combat character or want to take a break from combat from time to time, and that’s perfectly fair. Non-combat characters are welcome and are designed to fill gaps in the RP or gameplay experience that will naturally come about from having a bunch of violence-oriented individuals played in an RPG. You are welcome to talk with your GM to develop a character that fills a niche on the crew that the above classes overlook. A dedicated diplomat for smoothing jobs over, for example, or a communications expert to run ELINT or perhaps drones. 
+# Factions
 
-Be warned though, these people are still in a military - they will come under fire eventually. It is on you how they respond to that.
+## CRTG
+Remnants of an old specops groups that have come together to undo the failures of the HAARP program. The CRTG is made largely up of British Isles and Scandinavian members, though Canadians and Brazilians feature as well. Very well equipped compared to other military groups, they jealously guard this advantage in their quest to destroy all HAARP facilities world-wide. As the average person barely knows what HAARP is and has never heard of the CRTG, they have little good will to spend and live frugal lives between deployments. Sometimes mistaken for "scavengers cosplaying specops," they do little to dissuade this appearance. 
 
-RP-wise, the floor is open. The breadth of non-combat characters is impossible to summarize - talk to your GM if you’re having trouble nailing one down - they probably have a niche in mind that would be good to fill or angle towards.
+The CRTG are skilled, but aging. They do not have a clear means to recruit new members and had consigned themeslves to carry on their quiet war against a nigh-unknowable but finite enemy - the AI controllers of the HAARP facilities. That is, until in the last strike on the German H-AI-C revealed a new and troubling threat.  
 
-Gameplay-wise, you will be defined by your traits more than any other player. Make them characterful, make them useful and manipulate situations to allow you to use them as often as possible. 
+## The Corporate State of ION
+
+A new development in the shattered political landscape, The Corporate State of ION is a borderless state spread across central Europe. They occupy a curious position of definitely being an exploitative corporate construct that maintains a deathgrip on critical resources... while being widely loved for the ease of access to protection and "troubleshooting" resources they provide. ION military encampments are bases to Freelancers who range across Europe, providing protection from bandits and raiders at reasonable costs and also viciously hunting down the adherents of the SKYWARD cult pro-bono.  
+
+Not as well trained as other factions, they are extremely well supplied and well-taken care of by their state. ION practices corporate socialism and as such provides extensive healthcare, opportunities for the disabled and free, good-quality housing - with the understanding that you will work for them for the rest of your life. This manifests in their military as an almost heartwarming "no one left behind" philosophy - followed by promptly focusing on other things once you've bitten it. 
+
+The Corporate State of ION accepts everyone, but is mostly made up of Europeans and refugees from surrounding areas. 
+
+## The Fleet
+
+Sixth (Seventh) Fleet is the largest surviving US military command structure left. Starting from remnants 
