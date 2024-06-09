@@ -9,7 +9,7 @@ weight = 3
 ### 9mm   
 | Ammo           | PV | Notes    |
 |----------------|----|----------|
-| RIP            | 0  | Bleeding |
+| RIP            | 0  | Tearing  |
 | QuakeMaker     | 0  | Subsonic |
 | PSO            | 1  | None     |
 | Standard (PST) | 2  | None     |
@@ -27,7 +27,7 @@ weight = 3
 ### 9mm   
 | Ammo           | PV | Notes    |
 |----------------|----|----------|
-| RIP            | 0  | Bleeding |
+| RIP            | 0  | Tearing  |
 | QuakeMaker     | 0  | Subsonic |
 | PSO            | 1  | None     |
 | Standard (PST) | 2  | None     |
@@ -97,3 +97,9 @@ weight = 3
 | M33   | 5  | Vehicle-scale             |
 | HEIAP | 6  | Vehicle-scale, Incendiary |
 | AP    | 7  | Vehicle-scale             |
+
+**Tearing**: On a critical, automatically inflict the Injury "Bleeding"
+**Subsonic**: Can be Effectively Silenced, i.e. not heard outside a room. Non-subsonic ammunition can be Silenced, but will still be heard for a good distance, though the direction is frequently confused.
+**Shattering**: On a critical, automatically inflict the Injury "Fracture."
+**Vehicle-scale**: Immediately Down an Infantry character, inflict damage as normal to vehicles. 
+**Incendiary**: Set objects on fire. Note: Object must have enough effective thickness to arm the incendiary - ergo the round is unlikely to arm if fired into an unarmored body. Armored though... hoooo buddy. 

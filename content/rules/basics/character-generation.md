@@ -36,6 +36,6 @@ Licenses determine what vehicle can be driven or piloted. Everyone in M.A.S.O. s
 
 
 
-\* Can be operated without license - problems will crop up
-✝ 60 days if training on Heli, 180 days if trained on Aircraft
+\* Can be operated without license - problems will crop up  
+✝ 60 days if training on Heli, 180 days if trained on Aircraft  
 

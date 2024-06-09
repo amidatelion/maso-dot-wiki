@@ -7,9 +7,14 @@ weight = 4
 A player may move their speed in combat. 
 
 # Infantry Movement
-Infantry have great flexibility in movement. Unburdened infantry move their speed horizontally across any terrain, though that terrain may force checks that can affect their speed. Infantry that are overloaded also move at half their speed. 
+Infantry have great flexibility in movement. Unburdened infantry have two speeds: Advance and Dash
 
-Infantry can ascend 1 level vertically with appropriate tools - i.e. a ladder, pitons, etc. Certain surfaces can be climbed by without tooling and a relevant check.
+Advance: 15 feet per round, no accuracy penalty
+Dash: 30 feet per round, -10 accuracy, Loud
+
+They may move their speed horizontally across any terrain, though that terrain may force checks that can affect their speed. Infantry that are overloaded also move at half their speed. 
+
+Infantry can ascend 1 level per round vertically with appropriate tools - i.e. a ladder, pitons, etc. Certain surfaces can be climbed by without tooling and a relevant check.
 
 # Vehicle Movement
 In a vehicle, players have three speeds: combat, cruising, flat out, noted on the sheet. A combat speed is slowest, but allows for the best maneuverability and is always available. Cruising is meant for covering large distance and in order to enter cruising speed, a vehicle must have spent 1 round at combat speed as it takes time to accelerate. To move at cruising speed, a pilot must use 1 move action to move, and 1 more to move at cruising. A pilot making anything more than basic course adjustments must succeed on a Nerves check against a target of 10. 
