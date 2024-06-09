@@ -36,7 +36,7 @@ WWIII marked the onset of widespread use of combat drugs, pioneered by Russian s
 | Injector       | Effect                                                       | Duration | Comedown                          | Comedown Duration        |
 | -------------- | ------------------------------------------------------------ | -------- | --------------------------------- | ------------------------ |
 | Hemostatic     | Removes Bleeding                                             | N/A      | N/A                               | N/A                      |
-| Morphine       | Removes Pain,Resists Pain                                    | 30m      | Addiction Chance                  | N/A                      |
+| Morphine       | Removes Pain, Resists Pain                                   | 30m      | Addiction Chance                  | N/A                      |
 | Norepinephrine | Body +2, Speed +10                                           | 10m      | Speed -15                         | 15m                      |
 | Trimadol       | Removes Concussion, Removes Pain, Resists Pain, Body +3      | 10m      | Pain, Dehydration                 | Pain:3m, Dehydration:N/A |
 | Adrenaline     | Nerves +3, +2 to hit, Removes Pain                           | 10m      | Nerves -5                         | 10m                      |
