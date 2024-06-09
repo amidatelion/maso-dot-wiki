@@ -4,104 +4,19 @@ description = "MASO - Mixed Arms Space Opera"
 +++
 
 {{< hint info >}}
-MASO is a prototype tabletop roleplaying game that takes its cues from Battletech, mecha anime, and [Lancer](https://massif-press.itch.io/corebook-pdf).  
+MASO was, originally, a prototype tabletop roleplaying game that took its cues from Battletech, mecha anime, and [Lancer](https://massif-press.itch.io/corebook-pdf).  
 
-This version is purely an exploration of the infantry rules. Maybe some vehicles.
+This version... isn't that. It's purely an exploration of the infantry rules. Maybe some vehicles. It is set in Ignis Company's [HAARP universe](https://www.youtube.com/watch?v=Ie13GMC3fTA&list=PLmHznWsTk8BTJofMfAf_E4Ee0hxn0dURA) and blends its world with Shadowrun-inspired crunch and Tarkov-inspired survival mechanics.
 
 {{< /hint >}}
 
 
 ## Features
 
-<div class="row py-3 mb-5">
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-comments fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					Character: The Commander.
-				</h5>
-				<p class="card-text text-muted">
-					A communal character who makes decisions and drives the direction of the story.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-robot fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					Characters: Combat.
-				</h5>
-				<p class="card-text text-muted">
-					Combat characters carry out, well, combat operations. That's not to say they can't be social, they'll just be less... tuned for such situations.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-project-diagram fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					Characters: social.
-				</h5>
-				<p class="card-text text-muted">
-					Social characters are your diplomats, your negotiators. Players can switch between their combat and social characters as they like
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-dice-d20 fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					Dice-heavy.
-				</h5>
-				<p class="card-text text-muted">
-					MASO requires d6s. Go buy a cube. Or several. Or use a dice roller, I'm not your dad.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-dice fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					Crunchy.
-				</h5>
-				<p class="card-text text-muted">
-					Game is still under construction, but expect there to be many potentially interlocking rules.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="card flex-row border-0">
-			<div class="mt-3">
-				<span class="fas fa-feather-alt fa-2x text-primary"></span>
-			</div>
-			<div class="card-body pl-2">
-				<h5 class="card-title">
-					Themes: 
-				</h5>
-				<p class="card-text text-muted">
-					Space is terrifying, near-future soft sci-fi, the enemy is in the mirror, rule of cool, and big stompy robots are cool.
-				</p>
-			</div>
-		</div>
-	</div>
-</div>
+**Milsim TTRPG**: You're a grunt with a gun and a mission. Slap some peripherals on there, get some useful armor on and Roll them Bones.
+
+**Singular Dice**: You only need d6s. Hell, you could get away with 1d6. We recommend 3d6 or... maybe a cube.
+
+**Give and Take Combat**: Every fight you go into, every situation you encounter will initially massively disfavour you. It's up to you to leverage your stats, traits, knowledge and environment to overcome challenges.
+
+**A New Kind of Apocalypse**: This isn't your grandpappy's nightmare. WWIII happened and while nukes got launched, MAD didn't happen. Turns out *we didn't need that shit anymore*. Fight bandits, cultists and God-AI while facing the Mother of All Storms and her radioactive Problem Children.  
