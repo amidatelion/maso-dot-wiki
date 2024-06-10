@@ -39,7 +39,7 @@ Your background is a general statement about your origins. For this campaign, th
 
 **Fleet Original**: An American from the mainland, you enlisted or signed on as an officer. You suffer from the same negative public opinion as ION Americans, and so take a negative Wits trait related to social Wits interactions. Your Nerves bonus is to vehicle handling in some capacity however.  
 
-**2nd Gen**: Born on the fleet, you've never known anything different, except maybe the occasional coastal town. You gain a negative trait regarding the great outdoors, but a positive trait on Wits and Nerves checks regarding heavy machinery.  
+**2nd Gen**: Born on the fleet, you've never known anything different, except maybe the occasional now-coastal town. You gain a negative trait regarding the great outdoors, but a positive trait on Wits and Nerves checks regarding heavy machinery.  
 
 **Conscript**: Towards the end of the main fighting of WWIII, the US really upped the conscription rate. Plucked right out of school, you suffer on Wits checks related to anything covered from higher education. However, being in the military from such a young age, you gain a positive trait for any stat on checks related to anything military or combat.
 
@@ -70,7 +70,7 @@ Your background is a general statement about your origins. For this campaign, th
 
 **Marines**: Jarheads. Crayon-eaters. You're what remains of the expeditionary forces that initially tried to hold the Eastern Front. You gain two positive traits related to combat as well as a negative Wits or Nerve check related to morale. You can also request a 
 
-**Pilot**: A different kind of best of the best. You gain two licenses towards vehicles you qualify for. Additionally you gain a negative trait regarding small-arms combat. That shit's for peasants, after all. 
+**Pilot**: A different kind of best of the best. You gain 2 licenses towards vehicles you qualify for. Additionally you gain a negative trait regarding small-arms combat. That shit's for peasants, after all. 
 
 
 # Licenses

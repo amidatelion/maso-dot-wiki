@@ -17,20 +17,23 @@ weight = 1
 **Burst fire**:         
   - *SMGs*: Between short and medium range, +5 to hit if stationary, +3 during Advance movement, +2 during Dash. Costs 3 ammo.     
   - *Rifles*: Between short and long range, +3 to hit if stationary, +2 during Advance movement, -2 during Dash. Costs 3 ammo.    
+
 **Full Auto**:       
   - *SMGs*: -10 to hit, but for every number past your target roll, you may roll damage again. Costs 15 ammo.      
   - *Rifles*: -15 to hit, but for every number past your target roll, you may roll damage again. Costs 15 ammo.      
+
 **Scything**: A Full-Auto roll that attempts to hit multiple targets. The target difficulty increases by 1 per target.       
+
 **Spray-n-Pray**: A Full-Auto attack where you fire on a target you can't see, i.e. sticking your weapon out of cover or firing blind into the fog. You can only ever hit once. You may replace Nerves with Wit for this roll and if you do, you strain your senses for a clue of your target's position, getting +1 on subsequent attempts to hit.      
 
 # Statuses
 ## Combat Effects
 **Bleeding**: take 1d3 damage per round.  
-**Fracture**: Affects a given area  
-  - *Head*: Inflicts Concussed. 
-  - *Torso*: Cannot carry heavy loads. Cannot spend Major actions for Movement. Moving at Dash inflicts Pain.
-  - *Arms*: -5 to hit, cannot climb or vault, cannot lift heavy objects.
-  - *Legs*: Can only move at Advance, cannot climb or vault, cannot carry heavy loads, Overloaded inflicts Pain.
+**Fracture**: Affects a given area    
+  - *Head*: Inflicts Concussed.   
+  - *Torso*: Cannot carry heavy loads. Cannot spend Major actions for Movement. Moving at Dash inflicts Pain.  
+  - *Arms*: -5 to hit, cannot climb or vault, cannot lift heavy objects.  
+  - *Legs*: Can only move at Advance, cannot climb or vault, cannot carry heavy loads, Overloaded inflicts Pain.  
 **Concussed**: -15 to hit. -10 to all other rolls. Bright light inflicts Pain.  
 **Gutshot**: Automatically inflicts Bleeding. You begin to starve and suffer from dehydration.  
 **Suppressed**: -1 on to-hit rolls and awareness Wits or Nerves checks. For every round after the first, the debuff increases by 1 to a max of -5. For every round after the first squad morale automatically decreases until a Zero Morale Event.
