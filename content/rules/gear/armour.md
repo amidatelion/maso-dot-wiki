@@ -1,7 +1,7 @@
 +++
 title = 'Armour'
 description = "get yo drip."
-weight = 1
+weight = 2
 +++
 
 ## Armour basics

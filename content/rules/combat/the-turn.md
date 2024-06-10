@@ -4,21 +4,25 @@ description = ""
 weight = 3
 +++
 
+A turn is six seconds of real time. We jam a lot into those six seconds, because we're professionals. Mostly.
+
+# Actions
+
 A turn is 1 move action, 1 major action, 1 minor action and free actions, taken in any order.  
 
-# Move Action
+## Move Action
 
 A move action allows a player to move up to their speed in any valid direction. If they are in a vehicle, they move at the vehicle’s speed. Terrain or other effects may reduce this speed, but nothing may increase it. Instead, a player may push themselves or their vehicle. 
 
-# Major Action
+## Major Action
 
 A major action involves engaging in combat. Shooting, attacking in melee, throwing a grenade, any of these things are major actions. 
 
-# Minor Action
+## Minor Action
 
 A minor action is any active action that isn’t directly offensive. Reloading, deploying a drone, doing a scan, any of these are minor actions. See Pushing Yourself.
 
-# Free Actions
+## Free Actions
 
 A free action is any action that is pure flavour, such as banter, posing, kissing a lucky charm, etc. They are time limited based on the GM or player’s judgement and you generally can only do 1 per round.
 
@@ -60,3 +64,8 @@ On a roll of 3d6:
 | **Disoriented:** The whiplash of your faster than normal acts have left you confused. The GM may control the direction of your movement or target of an attack for 1 round.                  |                                                                                                                                                                                                                                                                                                                                 |
 | **Injury!:** You immediately take an injury.                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                 |
 | **Hyped:** Yo, did you see that move?! You’re running high on adrenaline. For the next 3 rounds you have a +1 to all rolls. This stacks and resets the round counter.                        |                                                                                                                                                                                                                                                                                                                                 |
+
+## Vehicle Fallout
+On a roll of 3d6:
+
+Need to redo chart

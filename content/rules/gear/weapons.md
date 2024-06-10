@@ -1,7 +1,7 @@
 +++
 title = 'Weapons'
 description = "get yo blickies."
-weight = 2
+weight = 3
 +++
 
 ## Pistols
@@ -87,4 +87,13 @@ weight = 2
 
 ## Grenades
 
-Boomies!  
+| Grenade   | Damage    | AOE       | Fuse   | Notes                                      |
+| --------- | --------- | --------- | ------ | ------------------------------------------ |
+| Frag      | 6d6       | 30 feet   | Timed  | Inflicts Bleeding                          |
+| Flashbang | 1d6       | 50 feet\* | Timed  | Inflicts Concussion, Deaf, Blind           |
+| Impact    | 10d6/3d6✝ | 30 feet   | Impact | Inflicts Wound on Contact, Bleeding on AOE |
+| Smoke     | N/A       | 60 feet   | Timed  | Extreme Visibility Reduction in AOE        |
+| Signal    | N/A       | 5 feet    | Timed  |                                            |
+
+\* Effects are reduced from center, especially outdoors
+✝ Direct hit/AOE damage
