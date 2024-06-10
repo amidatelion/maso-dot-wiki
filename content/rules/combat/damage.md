@@ -36,6 +36,13 @@ To defy death you roll 3d6 + Body or Wits, depending on the situation, versus a 
 **Pain**: -5 to hit, -5 to all other rolls. Stacks with Concussed. 
 **Overloaded**: You can only move at Advance speed. All climb checks, even with equipment, require checks. Your movements are louder.
 
+
 # Wounds
 
-You can think of Wounds as more-permanent injuries. A fractured rib is an injury. A collapsed lung is a Wound. Wounds cannot be healed in the field and are generally extremely debilitating. Wounds are inflicted at GM discretion. 
+You can think of Wounds as more-permanent injuries. A fractured rib is an injury. A collapsed lung is a Wound. Wounds cannot be healed in the field and are generally extremely debilitating. Wounds are inflicted at GM discretion. Instead of a Wound, the GM may offer you a Curse.
+
+# Curses
+
+A Wound can be dealt with with long-term care. A Curse is permanent. A Wound is immediately debilitating, but a Curse seemingly takes a while to take hold. A Wound's effects are known and quantifiable. A Curse works in more subtle ways. Or frequently doesn't. Either way, it doesn't end well. 
+
+A Curse is basically a delaying tactic against consequences. It's not something tangible, though you'll frequently find people who believe they're actuallyy Cursed especially in the increasingly more superstitious world post-HAARP. Make no mistake - a Curse can be every bit as debilitating as a Wound, but it will probably take some time to make its effects properly known. 
