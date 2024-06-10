@@ -84,3 +84,7 @@ weight = 2
 **Reliable**: If the gun jams, roll a 1d6. On a 4+, it does not.
 **Suppression**: Capable of a truly terrifying rate of fire, this weapon decreases enemy accuracy and awareness while fired in full-auto in their specific direction. For every round after the first, their morale automatically decreases.
 **Kitted**: This weapon comes with an integral flashlight, foregrip and 4x scope.
+
+## Grenades
+
+Boomies!  
