@@ -16,14 +16,13 @@ On November 4th, 2018, in the midst of World War Three, the United States activa
 
 Eighteen years later, on February 18, 2036, WWIII finally ended in the brief conflict known as the Storm War. A coalition of forces from the Corporate State of ION, Sixth (Seventh) Fleet, and the CRTG defeated the forces of the SKYWARD cult, their AI-god Babylon and unknown interventionists, securing the final requirement for a treaty with the remnants of the Russian Federation - the destruction of the Eastern European HAARP Facility.  
 
-</hr>
+<hr>
 
-It is March 21st, 2036, a Friday. Tomorrow is supposed to be the second straight day of sun that Europe has seen in nearly twenty years. 
+It is March 21st, 2036, a Friday. Tomorrow is supposed to be the third straight day of sun that Europe has seen in nearly twenty years. 
 
 You have just received word that SKYWARD have a backup of Babylon and are on the move.
 
 It was going to be such a nice day.
-
 
 # Features
 
