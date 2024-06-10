@@ -7,8 +7,8 @@ weight = 2
 ## Pistols
 | Guns     | Damage | Mods | Notes    |
 |----------|--------|------|----------|
-| Glock    | 1d6    | 2    | None     |
-| Beretta  | 1d6    | 0    | Reliable |
+| Glock    | 1d6    | 2    | Reliable |
+| Beretta  | 1d6    | 1    | None     |
 | Manhurin | 3d6    | 1    | None     |
 
 ## SMGs
@@ -79,3 +79,8 @@ weight = 2
 |------|--------|------|-----------|
 | M82  | 6d6    | 0    | +3 to hit |
 | AXMC | 5d6    | 4    | +3 to hit |
+
+## Proprties
+**Reliable**: If the gun jams, roll a 1d6. On a 4+, it does not.
+**Suppression**: Capable of a truly terrifying rate of fire, this weapon decreases enemy accuracy and awareness while fired in full-auto in their specific direction. For every round after the first, their morale automatically decreases.
+**Kitted**: This weapon comes with an integral flashlight, foregrip and 4x scope.

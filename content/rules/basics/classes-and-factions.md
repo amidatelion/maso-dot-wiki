@@ -1,11 +1,11 @@
 +++
 title = 'Player Classes and Factions'
 description = ""
-weight = 4
+weight = 3
 +++
 
 # Classes
-There aren't really "classes" in M.A.S.O but you do end up belonging to some broad archetypes. 
+There aren't really "classes" in M.A.S.O but you do end up belonging to some broad archetypes. These are presented to give you some idea of where your character might go during generation.
 
 ## Drivers 
 Does it have an engine and wheels? Then you've probably done extremely inadvisable things to it. Does it carry weapons? You've done terrible things to people with those weapons. It's a rare vehicle these days that has enough armor to resist all infantry weapons and god help you if you find someone with AT weapons, or some vehicle-scale bullshit. As such, a heavy foot on the pedal is advisable. 
@@ -49,7 +49,7 @@ A new development in the shattered political landscape, The Corporate State of I
 
 Not as well trained as other factions, they are extremely well supplied and well-taken care of by their state. ION practices corporate socialism and as such provides extensive healthcare, opportunities for the disabled and free, good-quality housing - with the understanding that you will work for them for the rest of your life. This manifests in their military as an almost heartwarming "no one left behind" philosophy - followed by promptly focusing on other things once you've bitten it.   
 
-The Corporate State of ION accepts everyone, but is mostly made up of Europeans and refugees from surrounding areas.   
+The Corporate State of ION accepts everyone, but is mostly made up of Europeans and refugees from surrounding areas. Their internal organization is a strange mix of corporate and military with many District Managers and District Captains coming into conflict, though this is considered better than where a Captain-Manager or Manager-Captain has to wear both hats.  
 
 ## The Fleet
 
