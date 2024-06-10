@@ -9,7 +9,7 @@ weight = 3
 ## CRTG
 Remnants of an old specops groups that have come together to undo the failures of the HAARP program. The CRTG is made largely up of British Isles and Scandinavian members, though Canadians and Brazilians feature as well. Very well equipped compared to other military groups, they jealously guard this advantage in their quest to destroy all HAARP facilities world-wide. As the average person barely knows what HAARP is and has never heard of the CRTG, they have little good will to spend and live frugal lives between deployments. Sometimes mistaken for "scavengers cosplaying specops," they do little to dissuade this appearance.   
 
-The CRTG are skilled, but aging. They do not have a clear means to recruit new members and had consigned themeslves to carry on their quiet war against a nigh-unknowable but finite enemy - the AI controllers of the HAARP facilities. That is, until in the last strike on the German H-AI-C revealed a new and troubling threat.  
+The CRTG are skilled, but aging. They do not have a clear means to recruit new members and had consigned themeslves to carry on their quiet war against a nigh-unknowable but finite enemy - the AI controllers of the HAARP facilities. That is, until in the last strike on the Eastern European HAARP Facility revealed a new and troubling threat.  
 
 The CRTG have been compared to crusaders and while they almost universally identify as atheists, there is a degree of fanaticism there that shrouds them in similar cloth. It is even rumoured their most eastward teams have integrated well with Islamicate states, making common cause with forces equally dedicated to the destruction of HAARP.  
 
