@@ -1,5 +1,5 @@
 +++
-title = 'Player Classes and Factions'
+title = 'Factions and Player Classes'
 description = ""
 weight = 3
 +++

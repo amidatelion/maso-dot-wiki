@@ -9,8 +9,8 @@ A player may move their speed in combat.
 # Infantry Movement
 Infantry have great flexibility in movement. Unburdened infantry have two speeds: Advance and Dash
 
-**Advance**: 15 feet per round, no accuracy penalty
-**Dash**: 30 feet per round, -10 accuracy, Loud
+**Advance**: 15 feet per round, no accuracy penalty  
+**Dash**: 30 feet per round, -10 accuracy, Loud  
 
 They may move their speed horizontally across any terrain, though that terrain may force checks that can affect their speed. Infantry that are overloaded also move at half their speed. 
 
