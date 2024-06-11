@@ -7,18 +7,18 @@ weight = 6
 Damage can broadly be split into Infantry and Vehicle Damage models.
 
 # Infantry Damage
-Damage against a person or beast or really anything organic is done against their HP and usually blocked by armour. Infantry armour blocks damage. So when a shot connects, it does its damage first to the armour and then to the wearer’s hit points. Hit points are defined your Body stat - namely 5 x your Body (minimum of 10). Once a player’s hit points are depleted, they take an injury and their hit points reset. Damage numbers are also not necessarily a 1-for-1 depictions of damage. If a bullet hits you and 2 damage goes through, you don't necessarily have a bullet hole in you - bullet impacts through armor *fucking hurt*!
+Damage against a person or beast or really anything organic is done against their HP and usually blocked by armour. Infantry armour blocks damage. So when a shot connects, it does its damage first to the armour and then to the wearer’s hit points. Hit points are defined your Body stat - namely 5 x your Body (minimum of 10). Once a player’s hit points are depleted, they take an Injury and their hit points reset. Damage numbers are also not necessarily a 1-for-1 depictions of damage. If a bullet hits you and 2 damage goes through, you don't necessarily have a bullet hole in you - bullet impacts through armor *fucking hurt*!
 
-By default, characters have 2 injury "slots." 
+By default, characters have 2 Injuries. 
 
-The nature of the injury may penalize the reset hit points. Once a player has suffered their maximum amount of injuries, they are considered Downed, not necessarily dead. 
+The nature of the Injury may penalize the reset hit points. Once a player has suffered their maximum amount of Injuries, they are considered Downed, not necessarily dead. 
 
-However, further damage will rapidly hasten the onset of death. If damage taken causes another injury while Down, the character must Defy Death.
+However, further damage will rapidly hasten the onset of death. If damage taken causes another Injury while Down, the character must Defy Death.
 
 # Defying death
 When Downed, a character has two options: staying down or trying to defy death. Staying down is free and incurs no consequences. A character may also be forced to Defy Death if they take another Injury while Down. 
 
-To defy death you roll 3d6 + Body or Wits, depending on the situation, versus a target set by the GM (usually 15 to start). On a success, HP resets to max though Injuries remain. On a failure, the character takes a Wound. If a character takes Wounds equal to their maximum injuries, they are Dead.
+To defy death you roll 3d6 + Body or Wits, depending on the situation, versus a target set by the GM (usually 15 to start). On a success, HP resets to max though Injuries remain. On a failure, the character takes a Wound. If a character takes Wounds equal to their maximum Injuries, they are Dead.
 
 # Injuries
 
@@ -39,7 +39,7 @@ To defy death you roll 3d6 + Body or Wits, depending on the situation, versus a 
 
 # Wounds
 
-You can think of Wounds as more-permanent injuries. A fractured rib is an injury. A collapsed lung is a Wound. Wounds cannot be healed in the field and are generally extremely debilitating. Wounds are inflicted at GM discretion. Instead of a Wound, the GM may offer you a Curse.
+You can think of Wounds as more-permanent Injuries. A fractured rib is an Injury. A collapsed lung is a Wound. Wounds cannot be healed in the field and are generally extremely debilitating. Wounds are inflicted at GM discretion. Instead of a Wound, the GM may offer you a Curse.
 
 # Curses
 

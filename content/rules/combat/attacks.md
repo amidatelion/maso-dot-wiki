@@ -44,9 +44,9 @@ Weapons may have differing firing modes. Trained individuals tend to rely on sin
     
 You may make a called shot against a target at a -5 to hit, specifying a location. This can be the wheel of a car, or some poor fuck's dome. Great for low-PV ammo or heavily armoured vehicles.        
     
-## Scaled weapnry    
+## Scaled weaponry    
     
-Being hit with weaponry of a different scale is devastating. An infantry character hit by a vehicle weapon will likely not survive and will frequently be injured by a near miss. A vehicle hit by a ship-based weapon is likely scrap or have components blow off by a near miss.       
+Being hit with weaponry of a different scale is devastating. An infantry character hit by a vehicle-scale weapon will likely not survive and will frequently be injured by a near miss. A vehicle hit by a ship-scale weapon is likely scrap or will have components blow off by a near miss.       
     
 ## Melee attacks    
     

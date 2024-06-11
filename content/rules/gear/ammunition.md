@@ -1,7 +1,7 @@
 +++   
 title = 'Ammunition'   
 description = "ping ping ping."   
-weight = 3   
+weight = 4   
 +++   
    
 ## Pistol   
