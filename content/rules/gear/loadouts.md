@@ -2,6 +2,7 @@
 title = 'Loadouts'
 description = "get yo drip."
 weight = 2
+bookFlatSection = true
 +++
 
 Outside this beta, this page would be used for other reasons, but we're doing away with Load and weight for the most part. Instead, have a look through the Loadouts below. The only thing to keep in mind from the Load rules is that a lower weight aids in stealth.
