@@ -26,6 +26,9 @@ MASO was, originally, a prototype tabletop roleplaying game that took its cues f
 
 This version... isn't that. It's purely an exploration of the infantry rules. Maybe some vehicles. It is set in Ignis Company's [HAARP universe](https://www.youtube.com/watch?v=Ie13GMC3fTA&list=PLmHznWsTk8BTJofMfAf_E4Ee0hxn0dURA) and blends its world with Shadowrun-inspired crunch and Tarkov-inspired survival mechanics.
 
+
+
+
 {{< /hint >}}
 
 # Features
