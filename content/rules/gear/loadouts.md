@@ -2,7 +2,7 @@
 title = 'Loadouts'
 description = "get yo drip."
 weight = 2
-bookFlatSection = true
+bookFlatSection = false
 +++
 
 Outside this beta, this page would be used for other reasons, but we're doing away with Load and weight for the most part. Instead, have a look through the Loadouts below. The only thing to keep in mind from the Load rules is that a lower weight aids in stealth.
@@ -10,6 +10,20 @@ Outside this beta, this page would be used for other reasons, but we're doing aw
 # Loadouts
 
 ## CRTG
+
+Driver: Lightly armed and armored - except for the P90, which actually makes him the most heavily armed support class.
+{{< details "Driver" [closed] >}}
+**Sidearm**: Glock    
+  - 3 mags of PST  (standard)  
+**Gun**: P90  
+  - 3 mags of R37.F (bone-breaking, flesh-tearing)  
+**Armor**: Kevlar  
+**Medical**: First Responder, Morphine, Bandage x2, Aluminum Roll Split  
+**Grenades**: 1 Smoke, 2 Signal  
+**Spare Ammo**: N/A   
+**Vehicle**: Yes  
+{{< /details >}}
+
 
 | Loadout   | Sidearm        | Sidearm mags   | Gun           | Mags             | Armor             | Medical                                                                           | Grenades                      | Spare Ammo       | Vehicle |
 | --------- | -------------- | -------------- | ------------- | ---------------- | ----------------- | --------------------------------------------------------------------------------- | ----------------------------- | ---------------- | ------- |
