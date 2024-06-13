@@ -13,8 +13,6 @@ Eighteen years later, on February 18, 2036, WWIII finally ended in the brief con
 
 While much of the world still suffered under the hyper-volatile weather, that small corner joined others in slow stabilization of weather patterns.  
 
-<hr>
-
 ## Now
 
 It is March 21st, 2036, a Friday. Tomorrow is supposed to be the third straight day of sun that Europe has seen in nearly twenty years. 
