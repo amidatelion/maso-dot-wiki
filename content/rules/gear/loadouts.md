@@ -13,15 +13,15 @@ Outside this beta, this page would be used for other reasons, but we're doing aw
 
 Driver: Lightly armed and armored - except for the P90, which actually makes him the most heavily armed support class.
 {{< details title="Driver" open=false >}}
-**Sidearm**: Glock    
+- **Sidearm**: Glock    
   - 3 mags of PST  (standard)  
-**Gun**: P90  
+- **Gun**: P90  
   - 3 mags of R37.F (bone-breaking, flesh-tearing)  
-**Armor**: Kevlar  
-**Medical**: First Responder, Morphine, Bandage x2, Aluminum Roll Split  
-**Grenades**: 1 Smoke, 2 Signal  
-**Spare Ammo**: N/A   
-**Vehicle**: Yes  
+- **Armor**: Kevlar  
+- **Medical**: First Responder, Morphine, Bandage x2, Aluminum Roll Split  
+- **Grenades**: 1 Smoke, 2 Signal  
+- **Spare Ammo**: N/A   
+- **Vehicle**: Yes  
 {{< /details >}}
 
 
