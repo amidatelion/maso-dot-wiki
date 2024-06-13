@@ -159,7 +159,7 @@ Outside this beta, this page would be used for other reasons, but we're doing aw
 - **Vehicle**: No  
 {{< /details >}}
 
-**Navy Support**: Look, trained marines are in short supply. Sometimes you need to send support personnel. Sometimes those support personnel carry a kitchen sink's worth of gear     
+**Logi**: It's 2036. No new nothings have been made in over a decade and you live on a fleet of boats. Logi are what keep those boats afloat. Logi are loot goblins.     
 {{< details title="Navy Support" open=false >}}
 - **Sidearm**: MP5K     
   - 3 mags of PST (bog-standard ammo)   
