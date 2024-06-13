@@ -5,11 +5,17 @@ description = "MASO - Mixed Arms Space Opera"
 
 # The Pitch
 
-On November 4th, 2018, in the midst of World War Three, the United States activated the High Active Auroral Research Project in an attempt to cause widespread, non-nuclear damage to Russian, Iranian and Chinese military and civilian infrastructure. Ten days later, the Russian allied nuclear response offlined the US' ability to control the Project facilities in what would become known as The HAARP Event, ushering in almost two decades of hyper-extreme weather and nuclear fallout.   
+## Then
+
+On November 4th, 2018, in the midst of World War Three, the United States activated the High Active Auroral Research Project in an attempt to cause widespread, non-nuclear damage to Russian, Iranian and Chinese military and civilian infrastructure. Ten days later, the Russian allied nuclear response offlined the US' ability to control the Project facilities in what would become known as The HAARP Event, ushering in almost two decades of hyper-volatile weather and nuclear fallout.   
 
 Eighteen years later, on February 18, 2036, WWIII finally ended in the brief conflict known as the Storm War. A coalition of forces from the Corporate State of ION, Sixth (Seventh) Fleet, and the CRTG defeated the forces of the SKYWARD cult, their AI-god Babylon and unknown interventionists, securing the final requirement for a treaty with the remnants of the Russian Federation - the destruction of the Eastern European HAARP Facility.  
 
+While much of the world still suffered under the hyper-volatile weather, that small corner joined others in slow stabilization of weather patterns.  
+
 <hr>
+
+## Now
 
 It is March 21st, 2036, a Friday. Tomorrow is supposed to be the third straight day of sun that Europe has seen in nearly twenty years. 
 
