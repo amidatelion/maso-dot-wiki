@@ -12,7 +12,7 @@ Outside this beta, this page would be used for other reasons, but we're doing aw
 ## CRTG
 
 Driver: Lightly armed and armored - except for the P90, which actually makes him the most heavily armed support class.
-{{< details "Driver" [closed] >}}
+{{< details title="Driver" open=false >}}
 **Sidearm**: Glock    
   - 3 mags of PST  (standard)  
 **Gun**: P90  
